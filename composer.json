@@ -1,37 +1,37 @@
 {	
-name: "thanhlk0803/MyPackage",	
-description: "mypackage"	
-keywords: [	
-mypackage	
-],	
-authors: [	
-{	
-name: "foostart",	
-email: "foostart.com@gmail.com"	
-}	
-],	
-license: "MIT",	
-require: {	
-},	
-require-dev: {	
-},	
-autoload: {	
-classmap: [	
-database	
-],	
-psr-4: {	
-Thanhlk0803\\Mypackage\\: "src/"	
-}	
-},	
-autoload-dev: {	
-classmap: [	
-	
-]	
-},	
-scripts: {	
-},	
-minimum-stability: "dev",	
-config: {	
-preferred-install: "dist"	
-}	
-}	
+    name: "tailieuweb/mypackage",	
+    description: "mypackage"	
+    keywords: [	
+    mypackage	
+    ],	
+    authors: [	
+    {	
+    name: "foostart",	
+    email: "foostart.com@gmail.com"	
+    }	
+    ],	
+    license: "MIT",	
+    require: {	
+    },	
+    require-dev: {	
+    },	
+    autoload: {	
+    classmap: [	
+    database	
+    ],	
+    psr-4: {	
+    Tailieuweb\\Mypackage\\: "src/"	
+    }	
+    },	
+    autoload-dev: {	
+    classmap: [	
+        
+    ]	
+    },	
+    scripts: {	
+    },	
+    minimum-stability: "dev",	
+    config: {	
+    preferred-install: "dist"	
+    }	
+    }	
