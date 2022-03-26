@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Thanhlk0803\\Mypackage\\": "src/"
+            "thanhlk0803\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
