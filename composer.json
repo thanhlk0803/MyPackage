@@ -1,5 +1,5 @@
 {
-    "name": "thanhlk0803/mypackage",
+    "name": "Thanhlk0803/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tailieuweb\\Mypackage\\": "src/"
+            "Thanhlk0803\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
