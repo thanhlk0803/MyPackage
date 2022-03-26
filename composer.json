@@ -1,5 +1,5 @@
 {	
-name: "thanhlk0803/mypackage",	
+name: "thanhlk0803/MyPackage",	
 description: "mypackage"	
 keywords: [	
 mypackage	
@@ -20,7 +20,7 @@ classmap: [
 database	
 ],	
 psr-4: {	
-Tailieuweb\\MyPackage\\: "src/"	
+Thanhlk0803\\Mypackage\\: "src/"	
 }	
 },	
 autoload-dev: {	
