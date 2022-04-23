@@ -1,5 +1,5 @@
 {
-    "name": "thanhlk0803/mypackage",
+    "name": "tailieuweb/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
@@ -12,11 +12,12 @@
     ],
     "license": "MIT",
     "require": {
-        "tailieuweb/mypackage": "dev-main"
+    },
+    "require-dev": {
     },
     "autoload": {
         "psr-4": {
-            "thanhlk0803\\Mypackage\\": "src/"
+            "Tailieuweb\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
